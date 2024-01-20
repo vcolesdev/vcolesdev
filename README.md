@@ -16,46 +16,46 @@ Front-end Engineer
 
 ### Workflow
 
-:large_orange_diamond: Docker, Docker Compose <br> 
-:large_orange_diamond: Lando <br>
-:large_orange_diamond: Shell scripts <br> 
+:arrow_right: Docker, Docker Compose <br> 
+:arrow_right: Lando <br>
+:arrow_right: Shell scripts <br> 
 
 ### Front-end
 
-:large_orange_diamond: TypeScript <br>
-:large_orange_diamond: NextJS <br>
-:large_orange_diamond: GatsbyJS <br>
-:large_orange_diamond: React, React Redux, React Query <br>
-:large_orange_diamond: WordPress Theme Development <br>
-:large_orange_diamond: Webpack 5 <br>
-:large_orange_diamond: Storybook UI/UX <br>
+:arrow_right: TypeScript <br>
+:arrow_right: NextJS <br>
+:arrow_right: GatsbyJS <br>
+:arrow_right: React, React Redux, React Query <br>
+:arrow_right: WordPress Theme Development <br>
+:arrow_right: Webpack 5 <br>
+:arrow_right: Storybook UI/UX <br>
 
 ### Backend
 
-:large_orange_diamond: PHP, Object Oriented Programming (OOP) <br>
-:large_orange_diamond: MongoDB Atlas <br>
-:large_orange_diamond: MongoDB drivers (NodeJS, Python) <br> 
-:large_orange_diamond: Symfony <br>
-:large_orange_diamond: WordPress Plugin Development <br> 
+:arrow_right: PHP, Object Oriented Programming (OOP) <br>
+:arrow_right: MongoDB Atlas <br>
+:arrow_right: MongoDB drivers (NodeJS, Python) <br> 
+:arrow_right: Symfony <br>
+:arrow_right: WordPress Plugin Development <br> 
 
 ### Other
 
-:large_orange_diamond: Figma <br>
-:large_orange_diamond: Adobe Photoshop <br> 
+:arrow_right: Figma <br>
+:arrow_right: Adobe Photoshop <br> 
 
 ## You Can Find Me...
 
 Things I like to do in my off-time.
 
-:large_orange_diamond: Working on personal projects. <br>
-:large_orange_diamond: Completing my Pokedex. <br>
-:large_orange_diamond: Exploring the roguelite genre on Steam. <br>
-:large_orange_diamond: Getting ready for the new WoW expansion. For the Horde! <br>
-:large_orange_diamond: Enjoying a relaxing day in my favorite farming sims. <br>
+:arrow_right: Working on personal projects. <br>
+:arrow_right: Completing my Pokedex. <br>
+:arrow_right: Exploring the roguelite genre on Steam. <br>
+:arrow_right: Getting ready for the new WoW expansion. For the Horde! <br>
+:arrow_right: Enjoying a relaxing day in my favorite farming sims. <br>
 
 ## Links
 
 Coming soon.  To be updated.
 
-:large_orange_diamond: LinkedIn <br>
-:large_orange_diamond: Website <br>
+:arrow_right: LinkedIn <br>
+:arrow_right: Website <br>
