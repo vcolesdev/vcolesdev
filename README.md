@@ -18,40 +18,40 @@ Front-end Engineer
 
 ### Front-end
 
-- TypeScript
-- NextJS
-- GatsbyJS
-- React, React Redux, React Query
-- WordPress Theme Development
-- Webpack 5
-- Storybook UI/UX
+:ballot_box_with_check: TypeScript
+:ballot_box_with_check: NextJS
+:ballot_box_with_check: GatsbyJS
+:ballot_box_with_check: React, React Redux, React Query
+:ballot_box_with_check: WordPress Theme Development
+:ballot_box_with_check: Webpack 5
+:ballot_box_with_check: Storybook UI/UX
 
 ### Backend
 
-- PHP, Object Oriented Programming (OOP)
-- MongoDB Atlas
-- MongoDB drivers (NodeJS, Python)
-- Symfony
-- WordPress Plugin Development
+:ballot_box_with_check: PHP, Object Oriented Programming (OOP)
+:ballot_box_with_check: MongoDB Atlas
+:ballot_box_with_check: MongoDB drivers (NodeJS, Python)
+:ballot_box_with_check: Symfony
+:ballot_box_with_check: WordPress Plugin Development
 
 ### Other
 
-- Figma
-- Adobe Photoshop
+:ballot_box_with_check: Figma
+:ballot_box_with_check: Adobe Photoshop
 
 ## You Can Find Me...
 
 Things I like to do in my off-time.
 
-- Working on personal projects.
-- Completing my Pokedex.
-- Exploring the roguelite genre on Steam.
-- Getting ready for the new WoW expansion. For the Horde!
-- Enjoying a relaxing day in my favorite farming sims.
+:ballot_box_with_check: Working on personal projects.
+:ballot_box_with_check: Completing my Pokedex.
+:ballot_box_with_check: Exploring the roguelite genre on Steam.
+:ballot_box_with_check: Getting ready for the new WoW expansion. For the Horde!
+:ballot_box_with_check: Enjoying a relaxing day in my favorite farming sims.
 
 ## Links
 
 Coming soon.  To be updated.
 
-- LinkedIn
-- Website
+:ballot_box_with_check: LinkedIn
+:ballot_box_with_check: Website
