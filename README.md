@@ -12,9 +12,9 @@ Front-end Engineer
 
 ### Workflow
 
-- Docker, Docker Compose
-- Lando
-- Shell scripts
+:large_orange_diamond: Docker, Docker Compose 
+:large_orange_diamond: Lando 
+:large_orange_diamond: Shell scripts 
 
 ### Front-end
 
@@ -28,30 +28,30 @@ Front-end Engineer
 
 ### Backend
 
-:ballot_box_with_check: PHP, Object Oriented Programming (OOP)
-:ballot_box_with_check: MongoDB Atlas
-:ballot_box_with_check: MongoDB drivers (NodeJS, Python)
-:ballot_box_with_check: Symfony
-:ballot_box_with_check: WordPress Plugin Development
+:large_orange_diamond: PHP, Object Oriented Programming (OOP) 
+:large_orange_diamond: MongoDB Atlas 
+:large_orange_diamond: MongoDB drivers (NodeJS, Python) 
+:large_orange_diamond: Symfony 
+:large_orange_diamond: WordPress Plugin Development 
 
 ### Other
 
-:ballot_box_with_check: Figma
-:ballot_box_with_check: Adobe Photoshop
+:large_orange_diamond: Figma 
+:large_orange_diamond: Adobe Photoshop 
 
 ## You Can Find Me...
 
 Things I like to do in my off-time.
 
-:ballot_box_with_check: Working on personal projects.
-:ballot_box_with_check: Completing my Pokedex.
-:ballot_box_with_check: Exploring the roguelite genre on Steam.
-:ballot_box_with_check: Getting ready for the new WoW expansion. For the Horde!
-:ballot_box_with_check: Enjoying a relaxing day in my favorite farming sims.
+:large_orange_diamond: Working on personal projects. 
+:large_orange_diamond: Completing my Pokedex. 
+:large_orange_diamond: Exploring the roguelite genre on Steam. 
+:large_orange_diamond: Getting ready for the new WoW expansion. For the Horde! 
+:large_orange_diamond: Enjoying a relaxing day in my favorite farming sims. 
 
 ## Links
 
 Coming soon.  To be updated.
 
-:ballot_box_with_check: LinkedIn
-:ballot_box_with_check: Website
+:large_orange_diamond: LinkedIn 
+:large_orange_diamond: Website 
