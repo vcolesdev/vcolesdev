@@ -18,13 +18,13 @@ Front-end Engineer
 
 ### Front-end
 
-:ballot_box_with_check: TypeScript
-:ballot_box_with_check: NextJS
-:ballot_box_with_check: GatsbyJS
-:ballot_box_with_check: React, React Redux, React Query
-:ballot_box_with_check: WordPress Theme Development
-:ballot_box_with_check: Webpack 5
-:ballot_box_with_check: Storybook UI/UX
+:large_orange_diamond: TypeScript
+:large_orange_diamond: NextJS
+:large_orange_diamond: GatsbyJS
+:large_orange_diamond: React, React Redux, React Query
+:large_orange_diamond: WordPress Theme Development
+:large_orange_diamond: Webpack 5
+:large_orange_diamond: Storybook UI/UX
 
 ### Backend
 
