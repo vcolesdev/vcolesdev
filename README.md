@@ -1,6 +1,6 @@
 # vcolesdev / Vanessa Coles
 
-## eyeglasses: At a Glance
+## :eyeglasses: At a Glance
 
 Since 2010.
 
@@ -8,7 +8,7 @@ Since 2010.
 
 *This profile is a work in progress.* 
 
-## computer: Current Role
+## :computer: Current Role
 
 Front-end Engineer
 
