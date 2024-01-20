@@ -1,6 +1,10 @@
 # vcolesdev / Vanessa Coles
 
+## At a Glance
+
 Since 2010.
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,docker,redux,vite,webpack,sass,tailwind,php,mongodb,symfony,wordpress,nginx,py,git,github,gitlab,figma)](https://skillicons.dev)
 
 *This profile is a work in progress.* 
 
