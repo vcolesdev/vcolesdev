@@ -1,5 +1,4 @@
-# :eyeglasses:
-# vcolesdev / Vanessa Coles
+# :eyeglasses: vcolesdev / Vanessa Coles
 
 ## At a Glance
 
