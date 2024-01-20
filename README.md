@@ -1,4 +1,6 @@
-# VCOLESDEV / Vanessa Coles
+# vcolesdev / Vanessa Coles
+
+Since 2010.
 
 *This profile is a work in progress.* 
 
