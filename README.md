@@ -1,6 +1,7 @@
+# :eyeglasses:
 # vcolesdev / Vanessa Coles
 
-## :eyeglasses: At a Glance
+## At a Glance
 
 Since 2010.
 
@@ -8,11 +9,11 @@ Since 2010.
 
 *This profile is a work in progress.* 
 
-## :computer: Current Role
+## Current Role
 
 Front-end Engineer
 
-## :white_check_mark: I've Worked With:
+## I've Worked With:
 
 ### Workflow
 
@@ -43,7 +44,7 @@ Front-end Engineer
 :large_orange_diamond: Figma <br>
 :large_orange_diamond: Adobe Photoshop <br> 
 
-## :gem: You Can Find Me...
+## You Can Find Me...
 
 Things I like to do in my off-time.
 
@@ -53,7 +54,7 @@ Things I like to do in my off-time.
 :large_orange_diamond: Getting ready for the new WoW expansion. For the Horde! <br>
 :large_orange_diamond: Enjoying a relaxing day in my favorite farming sims. <br>
 
-## :earth_americas: Links
+## Links
 
 Coming soon.  To be updated.
 
