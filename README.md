@@ -1,16 +1,53 @@
-### Hi there 👋
+#### This profile is a work in progress. 
 
-<!--
-**vcolesdev/vcolesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Role
 
-Here are some ideas to get you started:
+Front-end Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I've Worked With:
+
+### Workflow
+
+- Docker, Docker Compose
+- Lando
+- Shell scripts
+
+### Front-end
+
+- TypeScript
+- NextJS
+- GatsbyJS
+- React, React Redux, React Query
+- WordPress Theme Development
+- Webpack 5
+- Storybook UI/UX
+
+### Backend
+
+- PHP, Object Oriented Programming (OOP)
+- MongoDB Atlas
+- MongoDB drivers (NodeJS, Python)
+- Symfony
+- WordPress Plugin Development
+
+### Other
+
+- Figma
+- Adobe Photoshop
+
+## You Can Find Me...
+
+Things I like to do in my off-time.
+
+- Working on personal projects.
+- Completing my Pokedex.
+- Exploring the roguelite genre on Steam.
+- Getting ready for the new WoW expansion. For the Horde!
+- Enjoying a relaxing day in my favorite farming sims.
+
+## Links
+
+Coming soon.  To be updated.
+
+- LinkedIn
+- Website
