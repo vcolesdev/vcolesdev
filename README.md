@@ -1,5 +1,7 @@
 # :eyeglasses: vcolesdev / Vanessa Coles
 
+-  [View My Gists!](https://gist.github.com/vcolesdev)
+
 ## At a Glance
 
 Since 2010.
@@ -10,7 +12,7 @@ Since 2010.
 
 ## Current Role
 
-Front-end Engineer
+Front-End Engineer
 
 ## I've Worked With:
 
