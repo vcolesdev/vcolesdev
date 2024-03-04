@@ -34,15 +34,16 @@ Front-End Engineer
 
 ### Backend
 
-:arrow_right: PHP, Object Oriented Programming (OOP) <br>
-:arrow_right: MongoDB Atlas <br>
+:arrow_right: NodeJS APIs, Express <br>
+:arrow_right: MongoDB + Mongoose<br>
 :arrow_right: MongoDB drivers (NodeJS, Python) <br> 
 :arrow_right: Symfony <br>
-:arrow_right: WordPress Plugin Development <br> 
+:arrow_right: WordPress <br> 
 
 ### Other
 
 :arrow_right: Figma <br>
+:arrow_right: InDesign <br>
 :arrow_right: Adobe Photoshop <br> 
 
 ## You Can Find Me...
