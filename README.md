@@ -14,6 +14,11 @@ Since 2010.
 
 Fullstack Engineer
 
+## I'm Learning:
+
+:arrow_right: Rust <br> 
+:arrow_right: Go <br>
+
 ## I've Worked With:
 
 ### Workflow
@@ -37,6 +42,7 @@ Fullstack Engineer
 :arrow_right: NodeJS APIs, Express <br>
 :arrow_right: MongoDB + Mongoose <br>
 :arrow_right: MongoDB drivers (NodeJS, Python) <br> 
+:arrow_right: Python <br> 
 :arrow_right: Symfony <br>
 :arrow_right: WordPress <br> 
 
