@@ -12,7 +12,7 @@ Since 2010.
 
 ## Current Role
 
-Front-End Engineer
+Fullstack Engineer
 
 ## I've Worked With:
 
@@ -27,15 +27,15 @@ Front-End Engineer
 :arrow_right: TypeScript <br>
 :arrow_right: NextJS <br>
 :arrow_right: GatsbyJS <br>
-:arrow_right: React, React Redux, React Query <br>
-:arrow_right: WordPress Theme Development <br>
-:arrow_right: Webpack 5 <br>
+:arrow_right: ReactJS <br>
+:arrow_right: Webpack <br>
+:arrow_right: Vite <br>
 :arrow_right: Storybook UI/UX <br>
 
 ### Backend
 
 :arrow_right: NodeJS APIs, Express <br>
-:arrow_right: MongoDB + Mongoose<br>
+:arrow_right: MongoDB + Mongoose <br>
 :arrow_right: MongoDB drivers (NodeJS, Python) <br> 
 :arrow_right: Symfony <br>
 :arrow_right: WordPress <br> 
