@@ -23,8 +23,7 @@ Fullstack Engineer
 
 ### Workflow
 
-:arrow_right: Docker, Docker Compose <br> 
-:arrow_right: Lando <br>
+:arrow_right: Containerization (Docker, Lando)<br>
 :arrow_right: Shell scripts <br> 
 
 ### Front-end
@@ -33,7 +32,7 @@ Fullstack Engineer
 :arrow_right: NextJS <br>
 :arrow_right: GatsbyJS <br>
 :arrow_right: ReactJS <br>
-:arrow_right: Webpack <br>
+:arrow_right: Bundlers (Ex: Webpack)<br>
 :arrow_right: Vite <br>
 :arrow_right: Storybook UI/UX <br>
 
@@ -41,7 +40,6 @@ Fullstack Engineer
 
 :arrow_right: NodeJS APIs, Express <br>
 :arrow_right: MongoDB + Mongoose <br>
-:arrow_right: MongoDB drivers (NodeJS, Python) <br> 
 :arrow_right: Python <br> 
 :arrow_right: Symfony <br>
 :arrow_right: WordPress <br> 
