@@ -10,7 +10,7 @@ Since 2010.
 
 ## Current Role
 
-Fullstack Engineer
+Full-Stack Software Engineer
 
 ## I'm Learning:
 
