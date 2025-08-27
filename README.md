@@ -10,7 +10,7 @@ Since 2010.
 
 ## Current Role
 
-Frontend Engineer @ BetterCredits
+Front-End Engineer @ BetterCredits
 
 ## I've Worked With:
 
