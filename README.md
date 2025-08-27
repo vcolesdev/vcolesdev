@@ -19,17 +19,15 @@ Full-Stack Software Engineer
 
 ## I've Worked With:
 
-### Languages, Frameworks, Tools
-
-:arrow_right: Next.js <br>
 :arrow_right: TypeScript <br>
 :arrow_right: React <br>
-:arrow_right: CSS / TailwindCSS / CSS Modules <br>
-:arrow_right: PHP<br>
+:arrow_right: React Frameworks (e.g. Next.js) <br>
+:arrow_right: CSS / CSS-in-JS <br>
+:arrow_right: PHP <br>
 :arrow_right: Python <br>
-:arrow_right: Jest (Unit Testing)<br>
-:arrow_right: Playwright (e2e testing)<br>
-:arrow_right: Postman (API's testing)<br>
+:arrow_right: Containers (e.g. Docker) <br>
+:arrow_right: CMS (e.g. WordPress, Magento, Custom) <br>
+:arrow_right: DevOps / Hosting <br>
 
 ### UI/UX
 
