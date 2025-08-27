@@ -10,15 +10,11 @@ Since 2010.
 
 ## Current Role
 
-Full-Stack Software Engineer
-
-## I'm Learning:
-
-:arrow_right: AWS <br>
-:arrow_right: Kubernetes <br>
+Frontend Engineer
 
 ## I've Worked With:
 
+:arrow_right: JavaScript <br>
 :arrow_right: TypeScript <br>
 :arrow_right: React <br>
 :arrow_right: React Frameworks (e.g. Next.js) <br>
@@ -32,7 +28,7 @@ Full-Stack Software Engineer
 ### UI/UX
 
 :arrow_right: Figma<br>
-:arrow_right: Adobe Photoshop<br>
+:arrow_right: Photoshop<br>
 
 ## You Can Find Me...
 
